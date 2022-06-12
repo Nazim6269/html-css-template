@@ -160,7 +160,7 @@ a {
   float: left;
 }
 
-.footer-section .container li {
+.footer-section li {
   list-style-type: none;
   font-weight: 600;
   font-size: 12px;
@@ -168,7 +168,6 @@ a {
   margin-right: 10px;
 }
 
-.menu-bar-right li{
+.menu-bar-right ul{
   float: right;
-  margin-left: 40px;
 }
